@@ -1,0 +1,43 @@
+.event {
+  padding: 7em 16em 0em 16em;
+  min-width: 1085px;
+  max-width: 1085px;
+  margin: auto;
+}
+
+.event_img {
+  width: 100%;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 45px;
+  margin-top: 97px;
+  margin-bottom: 73px;
+  text-align: left;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 48px;
+}
+
+.event p {
+  font-weight: normal ;
+  font-size: 25px;
+  text-align: justify;
+  margin: 2.7rem 0rem;
+  letter-spacing: 0.5px;
+  margin-left: 0px;
+}
+
+.parrafo1 {
+  margin-top: 73px;
+}
+
+.parrafo2 {
+  margin-bottom: 120px;
+}
